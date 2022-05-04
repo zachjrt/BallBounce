@@ -7,9 +7,14 @@ This repository contains the source files of my Ball bounce game.
 
 It is essentially a one player pong game. Move the paddle to keep the ball alive, each hit with the paddle grants a point.
 
-The software was written to explore the capabilities of Unity
+The software was written to explore the capabilities of Unity.
 
-[Software Demo Video](UPDATE URL)
+Important note. The full project was too large to upload to github. The asset folder containing my code in the script subfolder was added
+
+[Software Demo Video](https://youtu.be/_nqZzukSutM)
+
+[Game Download Link](https://zachjrt.itch.io/ball-bounce)
+
 
 # Development Environment
 ---
