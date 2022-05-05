@@ -9,7 +9,7 @@ It is essentially a one player pong game. Move the paddle to keep the ball alive
 
 The software was written to explore the capabilities of Unity.
 
-Important note. The full project was too large to upload to github. The asset folder containing my code in the script subfolder was added
+Important note. The full project was too large to upload to github. The asset folder containing my code was added. I also added those scripts to the top level for easy access.
 
 [Software Demo Video](https://youtu.be/_nqZzukSutM)
 
